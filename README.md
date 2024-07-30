@@ -3,7 +3,7 @@
 
 **About Me**<img alt="Github Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZpM25rZG1xcnNlaG1zdXZyNnBzdDhvb3JjcXFydmpiOGVjYWU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150" align="right" ><br>
 🤓 I am a classically trained physicist turned data and tech nerd<br>
-📖 I enjoy teaching and you can find my blogs at <a href='https://www.jakeciafre.com/' style='color:3EB489'>jakeciafre.com</a><br>
+📖 I enjoy teaching and you can find my blogs at <a href='https://www.jakeciafre.com/' style='color:#3EB489'>jakeciafre.com</a><br>
 🧗‍♂️ I am adventurous and enjoy rock climbing and scuba diving<br>
 💬 Ask me about all things data!
 <br><br>
