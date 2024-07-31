@@ -12,13 +12,14 @@
 ## 🛠 Tech Stack 
 ### Languages
 <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white">&nbsp;
+
+<img src="https://img.shields.io/badge/NoSQL-005571?logo=nosql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Fortran-004B87?logo=fortran&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Matlab-0076A8?logo=matlab&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white">&nbsp;
 
 
 <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E">&nbsp;
@@ -54,6 +55,9 @@
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/Docker-333333?logo=docker&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">&nbsp;
 
