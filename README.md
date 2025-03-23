@@ -1,4 +1,4 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1500&color=3EB489&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Jake+Ciafre" alt="Typing SVG"/></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1500&color=3EB489&center=true&width=435&lines=Hello+There!+%F0%9F%91%8B%F0%9F%8F%BC;I'm+Jake" alt="Typing SVG"/></a></h1>
 
 
 **About Me**<img alt="Github Gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZpM25rZG1xcnNlaG1zdXZyNnBzdDhvb3JjcXFydmpiOGVjYWU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150" align="right" ><br>
